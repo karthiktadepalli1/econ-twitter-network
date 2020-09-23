@@ -1,6 +1,6 @@
 # EconTwitter Network
 
-EconTwitter is one of my favorite communities on the internet---a place to find new papers as well as new recipes.
+EconTwitter is one of my favorite communities on the internet---a place to find new papers as well as new recipes. So I thought it would be fun to create the EconTwitter network that represents this community, so that anyone can examine what it really looks like.
 
 ### econs.csv
 
